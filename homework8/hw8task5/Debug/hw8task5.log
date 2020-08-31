@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\roshu\OneDrive\Документы\Учеба\GBStudy\Algorithmics\homework8\hw8task5\Source.c(42,16): warning C4013: 'partition' undefined; assuming extern returning int
+C:\Users\roshu\OneDrive\Документы\Учеба\GBStudy\Algorithmics\homework8\hw8task5\Source.c(157,7): warning C4101: 'i': unreferenced local variable
+C:\Users\roshu\OneDrive\Документы\Учеба\GBStudy\Algorithmics\homework8\hw8task5\Source.c(236,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  hw8task5.vcxproj -> C:\Users\roshu\OneDrive\Документы\Учеба\GBStudy\Algorithmics\homework8\Debug\hw8task5.exe

@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\roshu\OneDrive\Документы\Учеба\GBStudy\Algorithmics\homework8\hw8task4\Source.c(47,30): warning C4013: 'calloc' undefined; assuming extern returning int
+C:\Users\roshu\OneDrive\Документы\Учеба\GBStudy\Algorithmics\homework8\hw8task4\Source.c(50,13): warning C4013: 'exit' undefined; assuming extern returning int
+  hw8task4.vcxproj -> C:\Users\roshu\OneDrive\Документы\Учеба\GBStudy\Algorithmics\homework8\Debug\hw8task4.exe
